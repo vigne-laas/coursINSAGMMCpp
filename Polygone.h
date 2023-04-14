@@ -1,5 +1,5 @@
-#ifndef POLYGONE_H
-#define POLYGONE_H
+#ifndef COURSINSAGMMCPP_POLYGONE_H
+#define COURSINSAGMMCPP_POLYGONE_H
 #include "Figure.h"
 
 class Polygone : public Figure
@@ -12,4 +12,4 @@ protected:
 };
 
 
-#endif //VERSIONPERSO_POLYGONE_H
+#endif //COURSINSAGMMCPP_POLYGONE_H

@@ -1,5 +1,5 @@
-#ifndef VERSIONPERSO_CERCLE_H
-#define VERSIONPERSO_CERCLE_H
+#ifndef COURSINSAGMMCPP_CERCLE_H
+#define COURSINSAGMMCPP_CERCLE_H
 
 
 #include "Figure.h"
@@ -18,4 +18,4 @@ public:
 };
 
 
-#endif //VERSIONPERSO_CERCLE_H
+#endif //COURSINSAGMMCPP_CERCLE_H

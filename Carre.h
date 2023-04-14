@@ -1,5 +1,5 @@
-#ifndef VERSIONPERSO_CARRE_H
-#define VERSIONPERSO_CARRE_H
+#ifndef COURSINSAGMMCPP_CARRE_H
+#define COURSINSAGMMCPP_CARRE_H
 
 
 #include "Rectangle.h"
@@ -17,4 +17,4 @@ public:
 };
 
 
-#endif //VERSIONPERSO_CARRE_H
+#endif //COURSINSAGMMCPP_CARRE_H
